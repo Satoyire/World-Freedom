@@ -1,0 +1,13 @@
+name: WorldFreedomApp
+title: WorldFreedomApp
+username: mscity
+account: mscity
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12012002
+bundleId: 8621288
+url: https://mscity.shinyapps.io/WorldFreedomApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data Processing.R
